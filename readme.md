@@ -1,3 +1,6 @@
 # This is my first Django project
 
-Content
+## Content
+
+* Main
+* Blog app
